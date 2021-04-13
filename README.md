@@ -1,6 +1,6 @@
 ---
 
-  `Hello! I'm Doğukan. I am an 8th grade student at the age of 14. I have an active site.` [`qreardedwashere.cf`](https://qreardedwashere.cf) 
+  Hello! I'm Doğukan. I am an 8th grade student at the age of 14. I have an active site. [`qreardedwashere.cf`](https://qreardedwashere.cf) 
 
 ---
 
