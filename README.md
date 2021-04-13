@@ -5,7 +5,7 @@
 ---
 
   # Current Projects<br />
-    [`Guess the Music`]() `|` [`WordBot`]()
+    [`Guess the Music`]() | [`WordBot`]()
 
 ---
 
