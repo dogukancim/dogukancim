@@ -12,6 +12,6 @@
 
 ---
 
-[![Test](https://github-readme-stats.vercel.app/api/wakatime?username=qreardedisback)](https://github.com/anuraghazra/github-readme-stats)
+[![Test](https://github-readme-stats.vercel.app/api/wakatime?username=qreardedisback)](https://github.com/qreardedisback/github-readme-stats)
 
 ---
