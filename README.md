@@ -4,7 +4,7 @@
 
 ---
 
-  ### `Current Projects`<br />
+  `Current Projects`<br />
   [`Guess the Music`](https://guessthemusic.net) `|` [`WordBot`](https://wordbot.xyz)
 
 ---
