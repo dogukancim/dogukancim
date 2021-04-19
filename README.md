@@ -6,7 +6,7 @@
 
 ---
 
-<a href="https://github.com/qreardedwastakennN">
+<a href="https://github.com/qreardedisback">
   <img src="https://github-readme-stats.vercel.app/api?username=qreardedisback&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=000000&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500">
 </a>
 
