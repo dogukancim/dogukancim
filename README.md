@@ -1,7 +1,7 @@
 ---
  
   `Current Projects - Bulunduğum Projeler`
-    [`Guess the Music`]() `|` [`WordBot`]()
+    [`Guess the Music`](https://guessthemusic.net) `|` [`WordBot`](https://wordbot.xyz)
 
 ---
 
