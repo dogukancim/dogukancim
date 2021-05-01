@@ -4,7 +4,7 @@
 
  `Hello! I'm Doğukan.`
  
-  `Current Projects - Bulunduğum Projeler`<br />
+  `Current Projects`<br />
   [`Guess the Music`](https://guessthemusic.net) `|` [`WordBot`](https://wordbot.xyz)
 
 ---
