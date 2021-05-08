@@ -10,6 +10,6 @@
 ---
 
 [![qreardedisback github s](https://github-readme-stats.vercel.app/api?username=qreardedisback&title_color=FFFFFF&bg_color=000000&icon_color=f5ac02&text_color=FFFFFF&show_icons=true)](https://github.com/qreardedisback)
-[![qreardedisback github s](https://github-readme-stats.vercel.app/api/pin/?username=qreardedwashere-cf&repo=qreardedwashere.cf)](https://github.com/qreardedwashere-cf/qreardedwashere.cf)
+[![qreardedisback github s](https://github-readme-stats.vercel.app/api/pin/?username=qreardedwashere-cf&bg_color=000000&icon_color=f5ac02&text_color=FFFFFF&title_color=FFFFFF&repo=qreardedwashere.cf)](https://github.com/qreardedwashere-cf/qreardedwashere.cf)
 
 ---
