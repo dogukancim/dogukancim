@@ -11,5 +11,6 @@
 
 [![qreardedisback github s](https://github-readme-stats.vercel.app/api?username=qreardedisback&theme=dark&show_icons=true)](https://github.com/qreardedisback)
 [![qreardedisback github s](https://github-readme-stats.vercel.app/api/pin/?username=qreardedwashere-cf&repo=qreardedwashere.cf&theme=dark)](https://github.com/qreardedwashere-cf/qreardedwashere.cf)
+![](https://raw.githubusercontent.com/qreardedisback/github-stats-transparent/output/generated/overview.svg)
 
 ---
