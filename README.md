@@ -5,7 +5,7 @@
  `Hello! I'm Doğukan.`
  
   `Current Projects`<br />
-  [`Guess the Music`](https://gtm.wtf) `|` [`WordBot`](https://wordbot.xyz)
+  [`Guess the Music`](https://qrearded.xyz/projects/gtm/) `|` [`WordBot`](https://qrearded.xyz/projects/wordbot/)
 
 ---
 
