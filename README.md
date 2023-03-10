@@ -1,1 +1,1 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=qreardedwastaken&show_icons=true&theme=transparent)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=qreardedwastaken&title_color=#FFFFFF&text_color=#FFFFFF&hide_border=true&icon_color=#FFFFFF)
