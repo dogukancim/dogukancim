@@ -1,1 +1,1 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=qreardedwastaken&theme=github_dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=qreardedwastaken&theme=github_dark&hide_border=true)
