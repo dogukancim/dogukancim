@@ -3,9 +3,9 @@
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
-	<a href="https://valentineu.xyz">Contact Support</a> —
-	<a href="https://valentineu.xyz">GitHub Status</a> —
-	<a href="https://valentineu.xyz">@githubstatus</a>
+	<a href="https://valentineu.xyz" target="_blank" rel="noopener">Contact Support</a> —
+	<a href="https://valentineu.xyz" target="_blank" rel="noopener">GitHub Status</a> —
+	<a href="https://valentineu.xyz" target="_blank" rel="noopener">@githubstatus</a>
 </p>
 <p></p>
 <p></p>
