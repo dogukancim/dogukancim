@@ -3,9 +3,9 @@
 <p align="center"><strong>The request was accepted for processing, but it was not completed.</strong></p>
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
-	<a href="https://valentineu.xyz" target="_blank" rel="noopener">Contact Support</a> —
-	<a href="https://valentineu.xyz" target="_blank" rel="noopener">GitHub Status</a> —
-	<a href="https://valentineu.xyz" target="_blank" rel="noopener">@githubstatus</a>
+	<a href="https://valentineu.com" target="_blank" rel="noopener">Contact Support</a> —
+	<a href="https://valentineu.com" target="_blank" rel="noopener">GitHub Status</a> —
+	<a href="https://valentineu.com" target="_blank" rel="noopener">@githubstatus</a>
 </p>
 <p></p>
 <p></p>
